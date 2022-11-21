@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>乖乖的三把刀</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>http://185.238.248.111:4000/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://185.238.248.111:4000/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-11-20T12:03:45.558Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://185.238.248.111:4000/"/>
+  <updated>2022-11-21T03:41:12.003Z</updated>
+  <id>http://185.238.248.111:4000/</id>
   
   <author>
     <name>Di Yao</name>
@@ -17,23 +17,110 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/11/20/hello-world/"/>
-    <id>http://example.com/2022/11/20/hello-world/</id>
-    <published>2022-11-20T12:03:45.558Z</published>
-    <updated>2022-11-20T12:03:45.558Z</updated>
+    <title>checkinstall</title>
+    <link href="http://185.238.248.111:4000/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/checkinstall/"/>
+    <id>http://185.238.248.111:4000/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/checkinstall/</id>
+    <published>2022-11-21T03:41:12.003Z</published>
+    <updated>2022-11-21T03:41:12.003Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;checkinstall&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#checkinstall&quot;&gt;&lt;/a&gt; checkinstall&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;what-is-checkinstall&quot;&gt;&lt;a</summary>
         
       
     
     
     
+    <category term="开发工具" scheme="http://185.238.248.111:4000/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Linux运维" scheme="http://185.238.248.111:4000/tags/Linux%E8%BF%90%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>haveged</title>
+    <link href="http://185.238.248.111:4000/uncategorized/haveged/"/>
+    <id>http://185.238.248.111:4000/uncategorized/haveged/</id>
+    <published>2022-11-21T03:41:12.003Z</published>
+    <updated>2022-11-21T03:41:12.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;introduction&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#introduction&quot;&gt;&lt;/a&gt; Introduction&lt;/h2&gt;
+&lt;hr</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux工具" scheme="http://185.238.248.111:4000/tags/Linux%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>qemu-machine</title>
+    <link href="http://185.238.248.111:4000/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/qemu-machine/"/>
+    <id>http://185.238.248.111:4000/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/qemu-machine/</id>
+    <published>2022-11-21T03:18:22.656Z</published>
+    <updated>2022-11-21T03:18:22.656Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;编译riscv64虚拟机&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#编译riscv64虚拟机&quot;&gt;&lt;/a&gt; 编译riscv64虚拟机&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="开发工具" scheme="http://185.238.248.111:4000/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Linux模拟器" scheme="http://185.238.248.111:4000/tags/Linux%E6%A8%A1%E6%8B%9F%E5%99%A8/"/>
+    
+    <category term="Qemu" scheme="http://185.238.248.111:4000/tags/Qemu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>elf-startup</title>
+    <link href="http://185.238.248.111:4000/%E5%86%85%E6%A0%B8%E5%9F%BA%E7%A1%80/elf-startup/"/>
+    <id>http://185.238.248.111:4000/%E5%86%85%E6%A0%B8%E5%9F%BA%E7%A1%80/elf-startup/</id>
+    <published>2022-11-21T02:36:41.578Z</published>
+    <updated>2022-11-21T02:36:41.578Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;elf头部&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#elf头部&quot;&gt;&lt;/a&gt; ELF头部&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;ELF header (Ehdr)&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="内核基础" scheme="http://185.238.248.111:4000/categories/%E5%86%85%E6%A0%B8%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="Elf结构" scheme="http://185.238.248.111:4000/tags/Elf%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
